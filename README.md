@@ -6,5 +6,6 @@ Este repositorio es para practicar _GitHub_ Flow.
 * Universidad del Quindío
 
 [Canal YouTube - GitHub](https://www.youtube.com/GitHub)
+
 Autor:
 **Jose Luis Chávez Picon**
